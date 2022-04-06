@@ -22,10 +22,9 @@ const Footer = () => {
             <div className= "sec quickLinks">
                 <h4>Created By</h4>
                 <ul>
-                    <li><a href="#">Madusanka</a></li>
-                    <li><a href="#">Agasthi</a></li>
-                    <li><a href="#">Ushini</a></li>
-                    <li><a href="#">Bulner</a></li>
+                    <li><a href="https://www.instagram.com/aditisingh__3/">Aditi</a></li>
+                    <li><a href="https://www.instagram.com/a_t_3120/">Ashish</a></li>
+                    <li><a href="https://www.instagram.com/_anu_wagh_/">Anushka</a></li>
                    
                 </ul>
            </div>
